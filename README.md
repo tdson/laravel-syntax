@@ -1,5 +1,6 @@
 # laravel-syntax theme
 
-A short description of your theme.
+A nice Atom syntax based on Chexter and Laravel 5.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+##Screenshot
+![laravel-syntax screenshot](https://c7.staticflickr.com/9/8471/29140330470_6a6cc6706e_b.jpg)
