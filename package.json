@@ -1,7 +1,7 @@
 {
   "name": "laravel-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A nice Atom syntax based on Chexter and Laravel 5",
   "keywords": [
     "syntax",
